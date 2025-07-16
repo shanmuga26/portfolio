@@ -19,7 +19,7 @@ function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Hello, I'm Ashok
+          Hello, I'm Shanmuga Lingam
         </motion.h1>
 
         <div className="flex flex-wrap justify-center md:justify-start gap-3">
@@ -66,7 +66,7 @@ function Hero() {
       {/* 👉 Image Section */}
       <motion.img
         src={profilePic}
-        alt="Ashok"
+        alt="Shanmuga Lingam"
         className="w-[250px] h-auto rounded-lg shadow-xl z-10"
         initial={{ x: 100, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
