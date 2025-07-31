@@ -1,32 +1,27 @@
-# 🚀 React + Vite Starter Template
+# 🧑‍💻 My Developer Portfolio
 
-A clean and minimal setup to get started with **React** using **Vite** for lightning-fast development.
+Welcome to my **personal portfolio website** – a showcase of my work in **AI, Embedded Systems, and Healthcare IT**. Built with **React + Tailwind CSS**, this site highlights my projects, skills, and goals as a Biomedical and AI Engineer.
 
-## 🌟 Features
-
-- ⚛️ React 18
-- ⚡ Vite 5 for instant Hot Module Replacement (HMR)
-- ✅ ESLint preconfigured for clean and consistent code
-- 🔧 Easy switch between Babel or SWC compiler
+🌐 Live at: [https://portfolioashokk.vercel.app](https://portfolioashokk.vercel.app)
 
 ---
 
-## 🔌 Plugin Options
+## 🚀 Tech Stack
 
-### ➤ `@vitejs/plugin-react`
-- Uses Babel for React Fast Refresh
-- Great compatibility across libraries
-
-### ➤ `@vitejs/plugin-react-swc`
-- Uses SWC (Rust-based) for faster builds
-- Better suited for large apps
+- ⚛️ **Frontend**: React.js + Tailwind CSS
+- 🎨 **UI**: Responsive design, modern layout
+- ☁️ **Deployment**: Vercel
+- 🔁 **Version Control**: Git + GitHub
 
 ---
 
-## 🧠 Recommended for Production
+## 🧠 Highlights
 
-For building scalable apps, it's recommended to:
-- Use the official [React + TypeScript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)
-- Enable advanced linting with [`typescript-eslint`](https://typescript-eslint.io)
+- Portfolio homepage with dynamic project cards  
+- Dedicated sections for About, Skills, and Contact  
+- Linked to my GitHub, LinkedIn, and Resume  
+- Fast load time and mobile responsiveness  
+- Easily expandable as I grow professionally  
 
 ---
+
