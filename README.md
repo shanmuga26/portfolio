@@ -1,4 +1,4 @@
-# 🧑‍💻 My Developer Portfolio
+# 🧑‍💻 My Portfolio
 
 Welcome to my **personal portfolio website** – a showcase of my work in **AI, Embedded Systems, and Healthcare IT**. Built with **React + Tailwind CSS**, this site highlights my projects, skills, and goals as a Biomedical and AI Engineer.
 
